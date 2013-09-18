@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Jane and Joe
-John goes to the hill
-Blue Hat, Purple Hat
-=======
 Jack and Jill
 John goes to the hill
-Red Hat, Green Hat
->>>>>>> 62c135c... copy files to repo
+
