@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Jack and Jill
 John goes down the hill
 Red Hat, Green Hat
+=======
+Jane and Joe
+John goes up the hill
+Blue Hat, Purple Hat
+>>>>>>> branch 'master' of ssh://git@github.com/liangzhu198/lab1_git.git
